@@ -19,6 +19,7 @@ Susith Hemathilaka is a tech evangelist,self thought programmer, a blogger, and 
 * Disrupt Asia 19 (Sri Lanka)
 
 
+
 ## Technical Books (Loved Reading)
 
 * [Head First Java](https://www.amazon.com/), Betty Richards,
