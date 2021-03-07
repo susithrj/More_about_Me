@@ -28,7 +28,6 @@ Susith Hemathilaka is a tech evangelist,self thought programmer, a blogger, and 
 
 * [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
 * [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
-
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
 * [Steve Jobs](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537), Walter Isaacson
 * [Losing My Virginity](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson
