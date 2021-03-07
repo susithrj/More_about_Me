@@ -26,14 +26,10 @@ Susith Hemathilaka is a tech evangelist,self thought programmer, a blogger, and 
 
 ## Non-Techncal Books (Loved Reading)
 
-* [Empathy (HBR Emotional Intelligence Series)](https://www.amazon.com/gp/product/1633693252), Daniel Goleman, Annie McKee, Adam Waytz
-* [Exploding Data: Reclaiming Our Cyber Security in the Digital Age](https://www.amazon.com/Exploding-Data-Reclaiming-Security-Digital/dp/0802127932/), Michael Chertoff
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
 * [Steve Jobs](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537), Walter Isaacson
 * [Losing My Virginity](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson
-* [Think Big: Make It Happen in Business and Life](https://www.amazon.com/Think-Big-Make-Happen-Business/dp/0061547840), Donal Trump
-* [The Starfish and the Spider](https://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841836/), Ori Brafman, 
-Rod A. Beckstrom
+
 
 
 
