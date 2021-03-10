@@ -16,6 +16,13 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * SLASSCOM AI Summit (2019, Sri Lanka)
 * Disrupt Asia 19 (Sri Lanka)
 
+## TV Series (Loved Watching)
+
+* Breaking Bad
+* Sacred Games
+* Silicon Valley
+* Young Sheldon
+* West World
 
 
 ## Technical Books (Loved Reading)
