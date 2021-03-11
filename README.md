@@ -24,6 +24,32 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Young Sheldon
 * West World
 
+## Movies (Loved Watching)
+
+* Inception (2010)
+* The Dark Knight (2008)
+* Interstellar (2014)
+* Fight Club (1999)
+* A Beautiful Mind (2001)
+* The Man Who Knew Infinity (2015)
+* The Pursuit of Happyness (2006)
+* Into the Wild (2007)
+* Forrest Gump (1994)
+* 3 Idiots (2009)
+* Premam (2015)
+* Kali (2016)
+* Coach Carter (2005)
+* The Social Network (2010)
+* The Matrix (1999)
+* Steve Jobs (2015) 
+* The Internship (2013)
+* The Fast and the Furious: Tokyo Drift (2006)
+* The Karate Kid (1984)
+* The Wolf of Wall Street (2013)
+* TPB AFK: The Pirate Bay Away from Keyboard (2013)
+* Apocalypto (2006)
+* The Social Dilemma (2020)
+
 
 ## Technical Books (Loved Reading)
 
