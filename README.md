@@ -50,6 +50,11 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Apocalypto (2006)
 * The Social Dilemma (2020)
 
+## Vloggers/Youtubers (Following)
+
+* Casey Neistat
+* Devon Crawford
+
 
 ## Technical Books (Loved Reading)
 
