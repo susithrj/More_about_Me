@@ -55,7 +55,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Casey Neistat
 * Devon Crawford
 * Ben Awad
-* Brad Traversy
+* Peter Mckinnon
 
 
 ## Technical Books (Loved Reading)
