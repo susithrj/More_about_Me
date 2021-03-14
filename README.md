@@ -60,7 +60,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 
 ## Technical Books (Loved Reading)
 
-* [Head First Java](https://www.amazon.com/), Betty Richards,
+* [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?dchild=1&keywords=head+first+java&qid=1615689227&s=books&sr=1-1), Kathy Sierra 
 * [Head First OOAD](https://www.amazon.com/), Michael Chertoff
 * [Head First Design Patterns](https://www.amazon.com), Marty Cagan
 
