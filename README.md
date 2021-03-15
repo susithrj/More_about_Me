@@ -83,6 +83,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194), Robert T. Kiyosaki
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-Notes-Start-Ups-Build-Future/dp/B00QEUZ690/ref=pd_lpo_14_t_1/142-8972790-1445614?_encoding=UTF8&pd_rd_i=B00QEUZ690&pd_rd_r=0b4bb870-7ba1-42a8-a87a-b15e2a01e2f0&pd_rd_w=4KdRE&pd_rd_wg=2AhaS&pf_rd_p=16b28406-aa34-451d-8a2e-b3930ada000c&pf_rd_r=PTTXHVGM6RV3K95X8ZEE&psc=1&refRID=PTTXHVGM6RV3K95X8ZEE), Peter Thiel 
 * [Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44), Phil Knight
+* [MONEY Master the Game: 7 Simple Steps to Financial Freedom](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860), Tony Robbins
 
 
 
