@@ -58,6 +58,15 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Peter Mckinnon
 
 
+## Podcasts (Loved Listening)
+
+* Tech Katha
+* The Illumination
+* The Backend Engineering Show with Hussein Nasser
+* The Quest with Justin Kan
+* Darknet Diaries
+
+
 ## Technical Books (Loved Reading)
 
 * [Head First Java, 2nd Edition](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?dchild=1&keywords=head+first+java&qid=1615689227&s=books&sr=1-1), Kathy Sierra 
