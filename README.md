@@ -85,6 +85,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44), Phil Knight
 * [MONEY Master the Game: 7 Simple Steps to Financial Freedom](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860), Tony Robbins
 * [Think and Grow Rich](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331), Napoleon Hill
+* [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416), Paulo Coelho
 
 
 
