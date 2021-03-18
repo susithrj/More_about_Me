@@ -20,8 +20,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 
 * [Breaking Bad (2008)](https://www.imdb.com/title/tt0903747/)
 * [Sacred Games (2018)](https://www.imdb.com/title/tt6077448/)
-* Silicon Valley
-* Young Sheldon
+* [Silicon Valley (2014)](https://www.imdb.com/title/tt2575988/)
+* [Young Sheldon (2017)](https://www.imdb.com/title/tt6226232/)
 * West World
 
 ## Movies (Loved Watching)
