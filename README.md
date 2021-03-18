@@ -18,7 +18,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 
 ## TV Series (Loved Watching)
 
-* Breaking Bad
+* [Breaking Bad](https://www.imdb.com/title/tt0903747/)
 * Sacred Games
 * Silicon Valley
 * Young Sheldon
