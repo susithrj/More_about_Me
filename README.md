@@ -22,7 +22,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Sacred Games (2018)](https://www.imdb.com/title/tt6077448/)
 * [Silicon Valley (2014)](https://www.imdb.com/title/tt2575988/)
 * [Young Sheldon (2017)](https://www.imdb.com/title/tt6226232/)
-* West World
+* [West World (2016)](https://www.imdb.com/title/tt0475784/)
 
 ## Movies (Loved Watching)
 
