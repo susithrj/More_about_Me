@@ -30,7 +30,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [The Dark Knight (2008)](https://www.imdb.com/title/tt0468569/)
 * [Interstellar (2014)](https://www.imdb.com/title/tt0816692/)
 * [Fight Club (1999)](https://www.imdb.com/title/tt0137523/)
-* A Beautiful Mind (2001)
+* [A Beautiful Mind (2001)](https://www.imdb.com/title/tt0268978/)
 * The Man Who Knew Infinity (2015)
 * The Pursuit of Happyness (2006)
 * Into the Wild (2007)
