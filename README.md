@@ -37,7 +37,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Forrest Gump (1994)](https://www.imdb.com/title/tt0109830/)
 * [3 Idiots (2009)](https://www.imdb.com/title/tt1187043/)
 * [Premam (2015)](https://www.imdb.com/title/tt4679210/)
-* Kali (2016)
+* [Kali (2016)](https://www.imdb.com/title/tt5335128/)
 * Coach Carter (2005)
 * The Social Network (2010)
 * The Matrix (1999)
