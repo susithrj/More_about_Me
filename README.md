@@ -32,7 +32,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Fight Club (1999)](https://www.imdb.com/title/tt0137523/)
 * [A Beautiful Mind (2001)](https://www.imdb.com/title/tt0268978/)
 * [The Man Who Knew Infinity (2015)](https://www.imdb.com/title/tt0787524/)
-* The Pursuit of Happyness (2006)
+* [The Pursuit of Happyness (2006)](https://www.imdb.com/title/tt0454921/)
 * Into the Wild (2007)
 * Forrest Gump (1994)
 * 3 Idiots (2009)
