@@ -49,7 +49,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [The Karate Kid (1984)](https://www.imdb.com/title/tt0087538/)
 * [The Wolf of Wall Street (2013)](https://www.imdb.com/title/tt0993846/)
 * [TPB AFK: The Pirate Bay Away from Keyboard (2013)](https://www.imdb.com/title/tt2608732/)
-* Apocalypto (2006)
+* [Apocalypto (2006)](https://www.imdb.com/title/tt0472043/)
 * The Social Dilemma (2020)
 
 ## Vloggers/Youtubers (Following)
