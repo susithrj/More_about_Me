@@ -40,7 +40,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Kali (2016)](https://www.imdb.com/title/tt5335128/)
 * [Coach Carter (2005)](https://www.imdb.com/title/tt0393162/)
 * [The Social Network (2010)](https://www.imdb.com/title/tt1285016/)
-* The Matrix (1999)
+* [The Matrix Trilogy (1999)](https://www.imdb.com/list/ls061622168/)
 * Steve Jobs (2015) 
 * The Internship (2013)
 * The Fast and the Furious: Tokyo Drift (2006)
