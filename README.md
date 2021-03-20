@@ -28,7 +28,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 
 * [Inception (2010)](https://www.imdb.com/title/tt1375666/)
 * [The Dark Knight (2008)](https://www.imdb.com/title/tt0468569/)
-* Interstellar (2014)
+* [Interstellar (2014)](https://www.imdb.com/title/tt0816692/)
 * Fight Club (1999)
 * A Beautiful Mind (2001)
 * The Man Who Knew Infinity (2015)
