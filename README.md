@@ -33,7 +33,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [A Beautiful Mind (2001)](https://www.imdb.com/title/tt0268978/)
 * [The Man Who Knew Infinity (2015)](https://www.imdb.com/title/tt0787524/)
 * [The Pursuit of Happyness (2006)](https://www.imdb.com/title/tt0454921/)
-* Into the Wild (2007)
+* [Into the Wild (2007)](https://www.imdb.com/title/tt0758758/)
 * Forrest Gump (1994)
 * 3 Idiots (2009)
 * Premam (2015)
