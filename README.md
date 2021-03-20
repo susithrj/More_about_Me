@@ -39,7 +39,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Premam (2015)](https://www.imdb.com/title/tt4679210/)
 * [Kali (2016)](https://www.imdb.com/title/tt5335128/)
 * [Coach Carter (2005)](https://www.imdb.com/title/tt0393162/)
-* The Social Network (2010)
+* [The Social Network (2010)](https://www.imdb.com/title/tt1285016/)
 * The Matrix (1999)
 * Steve Jobs (2015) 
 * The Internship (2013)
