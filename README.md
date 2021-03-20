@@ -27,7 +27,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 ## Movies (Loved Watching)
 
 * [Inception (2010)](https://www.imdb.com/title/tt1375666/)
-* The Dark Knight (2008)
+* [The Dark Knight (2008)](https://www.imdb.com/title/tt0468569/)
 * Interstellar (2014)
 * Fight Club (1999)
 * A Beautiful Mind (2001)
