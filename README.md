@@ -47,7 +47,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [The Internship (2013)](https://www.imdb.com/title/tt2234155/)
 * [The Fast and the Furious: Tokyo Drift (2006)](https://www.imdb.com/title/tt0463985/)
 * [The Karate Kid (1984)](https://www.imdb.com/title/tt0087538/)
-* The Wolf of Wall Street (2013)
+* [The Wolf of Wall Street (2013)](https://www.imdb.com/title/tt0993846/)
 * TPB AFK: The Pirate Bay Away from Keyboard (2013)
 * Apocalypto (2006)
 * The Social Dilemma (2020)
