@@ -35,7 +35,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [The Pursuit of Happyness (2006)](https://www.imdb.com/title/tt0454921/)
 * [Into the Wild (2007)](https://www.imdb.com/title/tt0758758/)
 * [Forrest Gump (1994)](https://www.imdb.com/title/tt0109830/)
-* 3 Idiots (2009)
+* [3 Idiots (2009)](https://www.imdb.com/title/tt1187043/)
 * Premam (2015)
 * Kali (2016)
 * Coach Carter (2005)
