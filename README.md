@@ -38,6 +38,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [3 Idiots (2009)](https://www.imdb.com/title/tt1187043/)
 * [Premam (2015)](https://www.imdb.com/title/tt4679210/)
 * [Kali (2016)](https://www.imdb.com/title/tt5335128/)
+* [3 (2012)](https://www.imdb.com/title/tt2123129/)
 * [Coach Carter (2005)](https://www.imdb.com/title/tt0393162/)
 * [The Social Network (2010)](https://www.imdb.com/title/tt1285016/)
 * [The Matrix Trilogy (1999)](https://www.imdb.com/list/ls061622168/)
