@@ -46,6 +46,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Steve Jobs (2015)](https://www.imdb.com/title/tt2080374/) 
 * [The Internship (2013)](https://www.imdb.com/title/tt2234155/)
 * [The Fast and the Furious: Tokyo Drift (2006)](https://www.imdb.com/title/tt0463985/)
+* [8 Mile (2002)](https://www.imdb.com/title/tt0298203/)
 * [The Karate Kid (1984)](https://www.imdb.com/title/tt0087538/)
 * [The Wolf of Wall Street (2013)](https://www.imdb.com/title/tt0993846/)
 * [TPB AFK: The Pirate Bay Away from Keyboard (2013)](https://www.imdb.com/title/tt2608732/)
