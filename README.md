@@ -56,7 +56,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 ## Vloggers/Youtubers (Following)
 
 * [Casey Neistat](https://www.youtube.com/user/caseyneistat)
-* Devon Crawford
+* [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
 * Ben Awad
 * Peter Mckinnon
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry)
