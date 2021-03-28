@@ -59,6 +59,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Devon Crawford
 * Ben Awad
 * Peter Mckinnon
+* Hussein Nasser
 
 
 ## Podcasts (Loved Listening)
