@@ -59,7 +59,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * Devon Crawford
 * Ben Awad
 * Peter Mckinnon
-* Hussein Nasser
+* [Hussein Nasser](https://www.youtube.com/user/GISIGeometry)
 
 
 ## Podcasts (Loved Listening)
