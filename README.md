@@ -67,7 +67,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Tech Katha](https://techkatha.com/)
 * [The Illumination](https://anchor.fm/illumination)
 * [The Backend Engineering Show with Hussein Nasser](https://anchor.fm/hnasr)
-* [The Quest with Justin Kan]
+* [The Quest with Justin Kan](https://justin.quest/)
 * Darknet Diaries
 
 
