@@ -65,7 +65,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 ## Podcasts (Loved Listening)
 
 * [Tech Katha](https://techkatha.com/)
-* [The Illumination]
+* [The Illumination](https://anchor.fm/illumination)
 * The Backend Engineering Show with Hussein Nasser
 * The Quest with Justin Kan
 * Darknet Diaries
