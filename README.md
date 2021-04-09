@@ -2,7 +2,7 @@
 
 ## Susith Hemathilaka
 
-Susith Hemathilaka is a tech evangelist, self thought programmer and a computer hobbyist with more than 3 years of Java application development. He felt in love with computers in age of 8. Gaming, Coding, breaking and fixing computers are the job at the start. Today, He is an experienced with 3 years with java programming, java entreprise application development and full stack web and mobile application development .
+Susith Hemathilaka is a tech evangelist, self thought programmer and a computer hobbyist with more than 3 years of Java application development. He felt in love with computers in age of 8. Gaming, Coding, breaking and fixing computers are the job at the start. Today, He is an experienced with 3 years with java programming, java entreprise application development and full stack web and mobile application development.
 
 
 * **LinkedIn:**  https://www.linkedin.com/in/susithrj
