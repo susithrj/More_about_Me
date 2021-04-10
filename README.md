@@ -59,6 +59,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
 * [Ben Awad](https://www.youtube.com/user/99baddawg)
 * [Peter Mckinnon](https://www.youtube.com/user/petermckinnon24)
+* [JavaBrains]()
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry)
 * [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
 
