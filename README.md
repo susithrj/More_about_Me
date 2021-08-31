@@ -96,7 +96,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [MONEY Master the Game: 7 Simple Steps to Financial Freedom](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757860), Tony Robbins
 * [Think and Grow Rich](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331), Napoleon Hill
 * [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416), Paulo Coelho
-
+* [Emotional Intelligence: Why it can matter more than IQ](https://www.amazon.com/Emotional-Intelligence-Daniel-Goleman/dp/1526633620), Daniel Goleman
+* [The Power Of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), Eckhart Tolle
 
 
 
