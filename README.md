@@ -84,7 +84,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Head First Object-Oriented Analysis and Design ](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678/ref=sr_1_1?dchild=1&keywords=head+first+ooad&qid=1615689291&s=books&sr=1-1),  Brett D. McLaughlin, Gary Pollice, Dave West 
 * [Head First Design Patterns: A Brain-Friendly Guide ](https://www.amazon.com), Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson 
 * [Ry's Git Tutorial](https://www.amazon.com), Ryan Hodson
-* [Head First EJB (Brain-Friendly Study Guides; Enterprise JavaBeans)  ](https://www.amazon.com), Bert Bates, Kathy Sierra  
+* [Head First EJB (Brain-Friendly Study Guides; Enterprise JavaBeans)  ](https://www.amazon.com/First-Brain-Friendly-Guides-Enterprise-JavaBeans/dp/0596005717), Bert Bates, Kathy Sierra  
+
 ## Non-Techncal Books (Loved Reading)
 
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
