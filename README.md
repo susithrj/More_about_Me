@@ -85,7 +85,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Head First Design Patterns: A Brain-Friendly Guide ](https://www.amazon.com), Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson 
 * [Ry's Git Tutorial](https://www.amazon.com), Ryan Hodson
 * [Head First EJB (Brain-Friendly Study Guides; Enterprise JavaBeans)  ](https://www.amazon.com/First-Brain-Friendly-Guides-Enterprise-JavaBeans/dp/0596005717), Bert Bates, Kathy Sierra  
-
+* [Effective Java](https://www.amazon.com), Joshua Bloch
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com), Robert C. Martin
 ## Non-Techncal Books (Loved Reading)
 
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
