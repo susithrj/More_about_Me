@@ -101,7 +101,9 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416), Paulo Coelho
 * [Emotional Intelligence: Why it can matter more than IQ](https://www.amazon.com/Emotional-Intelligence-Daniel-Goleman/dp/1526633620), Daniel Goleman
 * [The Power Of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), Eckhart Tolle
-* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), James Clear 
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), James Clear
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52), Cal Newport
+* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), Eric Ries
 
 
 
