@@ -78,16 +78,17 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Darknet Diaries](https://darknetdiaries.com/)
 
 
-## Technical Books (Loved Reading)
+## Technical Books (Loved Reading ⭐)
 
 * [Head First Java, 2nd Edition](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?dchild=1&keywords=head+first+java&qid=1615689227&s=books&sr=1-1), Kathy Sierra 
 * [Head First Object-Oriented Analysis and Design ](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678/ref=sr_1_1?dchild=1&keywords=head+first+ooad&qid=1615689291&s=books&sr=1-1),  Brett D. McLaughlin, Gary Pollice, Dave West 
 * [Head First Design Patterns: A Brain-Friendly Guide ](https://www.amazon.com), Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson 
-* [Ry's Git Tutorial](https://www.amazon.com), Ryan Hodson
+* [Ry's Git Tutorial](https://www.amazon.com), Ryan Hodson 
 * [Head First EJB (Brain-Friendly Study Guides; Enterprise JavaBeans)  ](https://www.amazon.com/First-Brain-Friendly-Guides-Enterprise-JavaBeans/dp/0596005717), Bert Bates, Kathy Sierra  
-* [Effective Java](https://www.amazon.com), Joshua Bloch
+* [Effective Java](https://www.amazon.com), Joshua Bloch 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com), Robert C. Martin
-## Non-Techncal Books (Loved Reading)
+
+## Non-Techncal Books (Loved Reading ⭐)
 
 * [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://www.amazon.com/gp/product/0062674676), Gary Vaynerchuk
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/), Richard Branson ⭐⭐⭐
