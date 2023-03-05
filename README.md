@@ -107,6 +107,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), James Clear ⭐⭐⭐⭐⭐
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52), Cal Newport
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), Eric Ries
+* [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), Morgan Housel 
+
 
 
 
