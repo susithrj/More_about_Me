@@ -2,7 +2,7 @@
 
 ## Susith Hemathilaka
 
-Susith Hemathilaka is a tech evangelist, self thought programmer and a computer hobbyist with more than 3 years of Java application development. He felt in love with computers in age of 8. Gaming, Coding, breaking and fixing computers are the job at the start. Today, He is an experienced with 3 years with java programming, java entreprise application development and full stack web and mobile application development.
+Susith Hemathilaka is a tech evangelist, self thought programmer and a computer hobbyist with more than 4 years of Java application development. He felt in love with computers in age of 8. Gaming, Coding, breaking and fixing computers are the job at the start. Today, He is an experienced with 3 years with java programming, java entreprise application development and full stack web and mobile application development.
 
 
 * **Portfolio:** https://susithrj.github.io/
@@ -89,6 +89,7 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Head First EJB (Brain-Friendly Study Guides; Enterprise JavaBeans)  ](https://www.amazon.com/First-Brain-Friendly-Guides-Enterprise-JavaBeans/dp/0596005717), Bert Bates, Kathy Sierra  
 * [Effective Java](https://www.amazon.com), Joshua Bloch 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com), Robert C. Martin
+* [Design It!: From Programmer to Software Architect](https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093), Michael Keeling 
 
 ## Non-Techncal Books (Loved Reading ⭐)
 
@@ -107,7 +108,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299), James Clear ⭐⭐⭐⭐⭐
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52), Cal Newport
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), Eric Ries
-* [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), Morgan Housel 
+* [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), Morgan Housel
+* [Show Your Work!](https://www.amazon.com/-/es/Austin-Kleon/dp/076117897X), Austin Kleon 
 
 
 
