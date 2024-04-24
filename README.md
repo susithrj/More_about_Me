@@ -109,7 +109,8 @@ Susith Hemathilaka is a tech evangelist, self thought programmer and a computer 
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B013UWFM52), Cal Newport
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898), Eric Ries
 * [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681), Morgan Housel
-* [Show Your Work!](https://www.amazon.com/-/es/Austin-Kleon/dp/076117897X), Austin Kleon 
+* [Show Your Work!](https://www.amazon.com/-/es/Austin-Kleon/dp/076117897X), Austin Kleon
+* [Leaders Eat Last](https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8), Simon Sinek
 
 
 
